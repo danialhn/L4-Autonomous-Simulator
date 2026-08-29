@@ -24,10 +24,5 @@ An advanced, multi-modal Level 4 Autonomous Driving simulator built from scratch
 * `numpy` & `math`: For complex kinematic physics, lateral spring-damper controllers, and 3D perspective projections.
 * `imageio` & `moviepy`: For rendering telemetry buffers into high-definition `.mp4` and `.gif` formats.
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/L4-Autonomous-Simulator.git](https://github.com/YOUR_USERNAME/L4-Autonomous-Simulator.git)<img width="700" height="394" alt="output_l4_hq_compressed" src="https://github.com/user-attachments/assets/f2b48622-ca77-4558-acfe-4401a7b76513" />
-<img width="700" height="394" alt="output_l4_hq_compressed" src="https://github.com/user-attachments/assets/1ddbb469-6679-4bce-82af-4a627c4b057c" />
 
