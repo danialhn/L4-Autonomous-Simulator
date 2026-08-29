@@ -1,3 +1,4 @@
+<img width="700" height="394" alt="output_l4_hq_compressed" src="https://github.com/user-attachments/assets/99bda7aa-3b00-4ac2-b27e-18347841d3ee" />
 # 🚗 Level 4 Autonomous Vehicle Decision Kernel
 
 An advanced, multi-modal Level 4 Autonomous Driving simulator built from scratch in Python. This project demonstrates high-performance sensor fusion, exact-clearance BSM (Blind Spot Monitoring), and a robust Finite State Machine (FSM) for complex highway maneuvers like timed double-overtakes.
